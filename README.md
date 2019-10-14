@@ -1,6 +1,14 @@
-# Nordic Energy´s Smart Contracts
+# Nordic Energy´s 
 
-Smart contracts based (EOSIO) delegated proof-of-stake consensus protocol. Smart Contract aims to provide a novel blockchain solution to meet the speed and scalability required.
+## Smart Contract Architechture
+
+
+
+### Protocol:
+
+Smart contracts runs on the Delegated Proof of Stake protocol, staking is more energy efficient compared to replace with the actual physical transfer of solar and wind energy, and for now, sit the principles of the energy solutions to better than other renewable energy protocols and using a multiple differential platform. 
+
+Smart Contract aims to provide a novel blockchain solution to meet the speed and scalability required. Nordic Energy PowerChain Is a highly scalable, next generation blockchain platform. Our architecture goes beyond state of the art and can be seen as an to achieve a better state between security, most fastest transactions, scalability and decentralization, allowing each node in the shard to determine the members of the consensus. 
 
 
 ### Token Economy:
