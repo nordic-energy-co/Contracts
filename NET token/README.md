@@ -1,12 +1,15 @@
 
-# Nordic Energy´s blockchain-based smart contract of EOSIO technology
+# Nordic Energy´s blockchain-based smart contract of EOSIO technology.
 
 ### “to revolutionize the global energy market through decentralization industries"
+
+
 
 
 Introduction:
 ----------------------
 Optimise your energy costs with the first blockchain-based energy ecosystem. Purchase and sale of energy via smart contract. Our Smart contract technologies based delegated proof-of-stake consensus protocol is capable of fixing issues with the complexity of data from energy sales, storage and sharingWe are on a mission to decentralize energy trading, data management, wholesale electricity distribution by blockchain-based peer-to-peer power supply, IoT and transmitting technologies. Blockchain does not set limits and competition is not created, because it creates communality and where everyone can benefit. Trading electricity or even to create new ones by using blockchain to facilitate peer-to-peer transactions that bypass a central utility, retail energy provider and using blockchain to track the production of clean energy.
+
 
 
 ### What is Blockchain?
@@ -84,9 +87,11 @@ A Javascript API SDK for integration with EOSIO-based blockchains using the EOSI
 Scatter wallet for digital currencies and assets. It’s a multi-blockchain signature, identity, and reputation provider for Windows, Mac, Linux, Android, and iOS
 
 
+
 Smart Contract Integration:
 ----------------------------
 EOS API service is created for integrating frontend component with our smart contract. We'll also be setting up Redux, which will keep a store of information for us so that we don't need to keep asking the blockchain every time we need the logged in user's name and other information. Redux will use what we call reducers to handle actions that modify the Redux store of state information.
+
 
 
 Quick start - Run the DApp
