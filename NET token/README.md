@@ -1,7 +1,8 @@
-Nordic Energy:
+
+Nordic Energy´s :
 ----------------------
 
-Nordic Energy´ PowerChain is a blockchain-based IoT-platform consists of two parts:
+PowerChain is a blockchain-based energy trading platform consists of two parts:
 JavaScript app and eosio blockchain. 
 
 •	JavaScript Stack:  ReactJS, Redux, NodeJS, Webpack
@@ -67,8 +68,8 @@ Redux will use what we call reducers to handle actions that modify the Redux sto
 
 Quick start - Run the DApp
 ----------------------------
-docker stop eosio_nordicenergy_container
-docker start eosio_nordicenergy_container
+docker stop eosio_evcharging_container
+docker start eosio_evcharging_container
 
 Install Docker: https://docs.docker.com/docker-for-mac/install/ 
 Install Node.js: https://nodejs.org/en/
