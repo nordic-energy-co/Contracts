@@ -68,8 +68,8 @@ Redux will use what we call reducers to handle actions that modify the Redux sto
 
 Quick start - Run the DApp
 ----------------------------
-docker stop eosio_evcharging_container
-docker start eosio_evcharging_container
+docker stop eosio_nordicenergy_container
+docker start eosio_nordicenergy_container
 
 Install Docker: https://docs.docker.com/docker-for-mac/install/ 
 Install Node.js: https://nodejs.org/en/
