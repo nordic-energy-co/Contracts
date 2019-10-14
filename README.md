@@ -1,4 +1,4 @@
-# Nordic Energy Smart Contracts
+# Nordic Energy´s Smart Contracts
 
 Smart contracts based (EOSIO) delegated proof-of-stake consensus protocol. Smart Contract aims to provide a novel blockchain solution to meet the speed and scalability required.
 
