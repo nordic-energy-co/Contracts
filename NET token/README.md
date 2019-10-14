@@ -1,6 +1,7 @@
 
-# Nordic Energy´s blockchain-based smart contract of EOSIO technology “to revolutionize the global energy market through decentralization industries" :
+# Nordic Energy´s blockchain-based smart contract of EOSIO technology
 
+### “to revolutionize the global energy market through decentralization industries" :
 
 
 Introduction:
@@ -36,6 +37,7 @@ The EOSIO software introduces a new blockchain architecture designed to enable v
 What is a Smart Contract?
 --------------------------
 An EOSIO Smart Contract is software registered on the blockchain and executed on EOSIO nodes. Smart Contracts implement the semantics of a "contract" and action requests are automatically stored on the blockchain. The Smart Contract defines the interface (actions, parameters, data structures) and the code that implements the interface. The code is compiled for WebAssembly, that nodes can execute.
+
 
 
 #### Features of EOSIO:
