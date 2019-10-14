@@ -1,8 +1,23 @@
 
-Nordic Energy´s :
-----------------------
+# Nordic Energy´s blockchain-based smart contract of EOSIO technology “to revolutionize the global energy market through decentralization industries" :
 
-PowerChain is a blockchain-based energy trading platform consists of two parts:
+
+
+Introduction:
+----------------------
+Optimise your energy costs with the first blockchain-based energy ecosystem. Purchase and sale of energy via smart contract. Our Smart contract technologies based delegated proof-of-stake consensus protocol is capable of fixing issues with the complexity of data from energy sales, storage and sharingWe are on a mission to decentralize energy trading, data management, wholesale electricity distribution by blockchain-based peer-to-peer power supply, IoT and transmitting technologies. Blockchain does not set limits and competition is not created, because it creates communality and where everyone can benefit. Trading electricity or even to create new ones by using blockchain to facilitate peer-to-peer transactions that bypass a central utility, retail energy provider and using blockchain to track the production of clean energy.
+
+
+### What is Blockchain?
+
+Blockchain is a decentralized, distributed store of transaction data. Periodically a new block of transactions is created and connected to the previous block. It is distributed because the blockchain stores transactions across many computers. It is decentralized because the blockchain infrastructure is not owned by one company. Blockchain provides trust; cryptography and consensus ensures that transactions are immutable. Blockchain provides resilience and transparency; decentralization and distribution mean many copies of the blockchain are available for all to see.
+
+
+
+Blockchain Stack:
+-----------------
+#### PowerChain is a blockchain-based energy trading platform consists of two parts: 
+
 JavaScript app and eosio blockchain. 
 
 •	JavaScript Stack:  ReactJS, Redux, NodeJS, Webpack
@@ -11,10 +26,6 @@ JavaScript app and eosio blockchain.
 Users interact with the UI in client and sign the transaction in frontend. The signed transaction is sent to the blockchain directly. After the transaction is accepted in blockchain, the note is added into the multi index table in blockchain.
 
 
-Blockchain Stack:
------------------
-What is Blockchain?
-Blockchain is a decentralized, distributed store of transaction data. Periodically a new block of transactions is created and connected to the previous block. It is distributed because the blockchain stores transactions across many computers. It is decentralized because the blockchain infrastructure is not owned by one company. Blockchain provides trust; cryptography and consensus ensures that transactions are immutable. Blockchain provides resilience and transparency; decentralization and distribution mean many copies of the blockchain are available for all to see.
 
 EOSIO
 -----------------
@@ -25,14 +36,17 @@ The EOSIO software introduces a new blockchain architecture designed to enable v
 What is a Smart Contract?
 --------------------------
 An EOSIO Smart Contract is software registered on the blockchain and executed on EOSIO nodes. Smart Contracts implement the semantics of a "contract" and action requests are automatically stored on the blockchain. The Smart Contract defines the interface (actions, parameters, data structures) and the code that implements the interface. The code is compiled for WebAssembly, that nodes can execute.
-Features of EOSIO
-	High Throughput and Scalability
-	Faster Confirmations and Lower Latency
-	Feeless and Cost Predictable Blockchain
-	Comprehensive Permission Schema
-	Upgradability
-	Less energy consumption
-	Programmable Economics and Governance
+
+
+#### Features of EOSIO:
+
+- High Throughput and Scalability
+- Faster Confirmations and Lower Latency
+- Feeless and Cost Predictable Blockchain
+- Comprehensive Permission Schema
+- Upgradability
+- Less energy consumption
+- Programmable Economics and Governance
 
 
 
