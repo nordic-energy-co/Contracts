@@ -1,9 +1,10 @@
 
 # What Is NET Token?
 
-
 The NET token is used on the Nordic Energy platform. The Nordic Energy token will fuel Nordic Energy’s blockchain-based technologies, facilitate access to Nordic Energy ecosystem, allowing global platform interoperability. NET tokens powers all the transactions within the microgrids, solar power plants, wind parks, electric vehicles charging points and power stations.  
 NET token is a very efficient payment method and transaction engine of choice. This is key for enabling frictionless transactions inside these closed environments. Nordic Energy own payment processors without the cumbersome or costly aspects of traditional financial settlement options, where tokens provide a much lower barrier for processing end-to-end transactions inside a given market.
+
+
 
 
 ### Protocol:
@@ -33,7 +34,7 @@ Smart contracts based (EOSIO) delegated proof-of-stake consensus protocol. Smart
 
 - Multi-token economy:  Service into multi-tokens enabling referrers in a referral-chain to refer portions of the to create opportunities, transfer and share values more seamlessly than ever before.
 
-Referrals & Rewards: User earn our tokens for referrals, advertise, product views, app usage and blockchain-based decentralized capacity market. NET tokens enable retailers to become advertisers. use NET token to promote and advertising to get rewards.
+- Referrals & Rewards: User earn our tokens for referrals, advertise, product views, app usage and blockchain-based decentralized capacity market. NET tokens enable retailers to become advertisers. use NET token to promote and advertising to get rewards.
 
 - Tradeable: Purchase and sale of energy via smart contracts, provide flexible yet standardized power purchase process. Blockchain based technological solution allows transparent ecosystem and energy on demand accounting. 
 
