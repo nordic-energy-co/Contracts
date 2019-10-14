@@ -10,10 +10,10 @@ NET token is a very efficient payment method and transaction engine of choice. T
 
 
 
-
-### Protocol:
+## Protocol:
 
 Smart contracts based (EOSIO) delegated proof-of-stake consensus protocol. Smart Contract aims to provide a novel blockchain solution to meet the speed and scalability required.
+#
 
 
 
