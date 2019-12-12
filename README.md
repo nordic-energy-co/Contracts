@@ -1,4 +1,4 @@
-# Nordic Energy Smart Contracts 
+# Smart Contracts 
 
 
 ## Platform Architechture
