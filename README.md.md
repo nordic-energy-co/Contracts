@@ -1,7 +1,8 @@
 # Smart Contracts 
 
 
-## Platform Architechture
+
+### Platform Architechture
 
 PowerChain platform architecture is a highly scalable, next generation blockchain platform goes beyond state of the art and can be seen as an to achieve a better state between security, most fastest transactions, scalability and decentralization, allowing each node in the shard to determine the members of the consensus. 
 
